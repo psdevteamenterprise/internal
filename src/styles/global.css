@@ -1,0 +1,11 @@
+.front{
+    z-index: 20;
+}
+
+.middle{
+    z-index: 30;
+}
+
+.header{
+    z-index: 99;
+}
