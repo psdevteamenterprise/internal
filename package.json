@@ -7,7 +7,7 @@
   },
   "dependencies": {
     "@hisense-staging/velo-npm": "3.0.19",
-    "sr-npm": "1.0.12"
+    "sr-npm": "1.0.13"
   },
   "scripts": {
     "postinstall": "wix sync-types",
