@@ -6,7 +6,7 @@ const { items: wixData } = require("@wix/data");
 export async function fetchAndSaveBasicJobsFast() { 
     const task = {
         name: TASKS_NAMES.SYNC_JOBS_FAST,
-        data: {},
+        data: {templateType: "INTERNAL"},
         type: TASK_TYPE.SCHEDULED,
       };  
       taskManager().schedule(task);
