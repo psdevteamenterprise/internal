@@ -8,7 +8,7 @@
   "dependencies": {
     "@hisense-staging/velo-npm": "3.0.19",
     "@wix/data": "^1.0.278",
-    "sr-npm": "1.7.498"
+    "sr-npm": "1.7.500"
   },
   "scripts": {
     "postinstall": "wix sync-types",
