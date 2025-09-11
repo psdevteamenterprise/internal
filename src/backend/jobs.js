@@ -1,4 +1,4 @@
-const { taskManager } = require('@hisense-staging/velo-npm/backend');
+const { taskManager } = require('psdev-task-manager/backend/tasks/taskManager');
 const{TASKS_NAMES,TASK_TYPE,TASKS} = require('sr-npm/backend/consts');
 const{markTemplateAsInternal} = require('sr-npm/backend/data');
 

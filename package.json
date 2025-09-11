@@ -6,8 +6,8 @@
     "react": "16.14.0"
   },
   "dependencies": {
-    "@hisense-staging/velo-npm": "3.0.19",
     "@wix/data": "^1.0.278",
+    "psdev-task-manager": "^2.0.1",
     "sr-npm": "1.7.505"
   },
   "scripts": {
