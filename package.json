@@ -11,7 +11,6 @@
     "sr-npm": "1.7.505"
   },
   "scripts": {
-    "postinstall": "wix sync-types",
     "dev": "wix dev",
     "lint": "eslint ."
   }
