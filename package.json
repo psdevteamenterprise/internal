@@ -8,7 +8,7 @@
   "dependencies": {
     "@wix/data": "^1.0.278",
     "psdev-task-manager": "^2.0.1",
-    "sr-npm": "1.7.505"
+    "sr-npm": "2.0.13"
   },
   "scripts": {
     "dev": "wix dev",
