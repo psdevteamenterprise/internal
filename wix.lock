@@ -347,7 +347,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],\
       [\
         "@tybys/wasm-util",\
-        "npm:0.10.0"\
+        "npm:0.10.1"\
       ],\
       [\
         "@types/babel__core",\
@@ -383,7 +383,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],\
       [\
         "@types/node",\
-        "npm:24.3.1"\
+        "npm:24.5.2"\
       ],\
       [\
         "@types/safe-json-stringify",\
@@ -483,35 +483,35 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],\
       [\
         "@wix/auto_sdk_data_backups",\
-        "npm:1.0.26"\
+        "npm:1.0.27"\
       ],\
       [\
         "@wix/auto_sdk_data_collections",\
-        "npm:1.0.32"\
+        "npm:1.0.33"\
       ],\
       [\
         "@wix/auto_sdk_data_external-database",\
-        "npm:1.0.14"\
+        "npm:1.0.15"\
       ],\
       [\
         "@wix/auto_sdk_data_external-database-connections",\
-        "npm:1.0.26"\
+        "npm:1.0.27"\
       ],\
       [\
         "@wix/auto_sdk_data_indexes",\
-        "npm:1.0.24"\
+        "npm:1.0.25"\
       ],\
       [\
         "@wix/auto_sdk_data_movement-jobs",\
-        "npm:1.0.13"\
+        "npm:1.0.14"\
       ],\
       [\
         "@wix/auto_sdk_data_permissions",\
-        "npm:1.0.31"\
+        "npm:1.0.33"\
       ],\
       [\
         "@wix/auto_sdk_data_tasks",\
-        "npm:1.0.21"\
+        "npm:1.0.22"\
       ],\
       [\
         "@wix/auto_sdk_secrets_secrets",\
@@ -519,7 +519,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],\
       [\
         "@wix/data",\
-        "npm:1.0.290"\
+        "npm:1.0.293"\
       ],\
       [\
         "@wix/error-handler",\
@@ -539,7 +539,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],\
       [\
         "@wix/filter-builder",\
-        "npm:1.0.192"\
+        "npm:1.0.200"\
       ],\
       [\
         "@wix/monitoring",\
@@ -555,7 +555,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],\
       [\
         "@wix/sdk-runtime",\
-        "npm:0.3.62"\
+        "npm:0.5.0"\
       ],\
       [\
         "@wix/sdk-types",\
@@ -567,7 +567,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],\
       [\
         "@wix/site-location",\
-        "npm:1.29.0"\
+        "npm:1.31.0"\
       ],\
       [\
         "@wix/site-seo",\
@@ -583,15 +583,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],\
       [\
         "@wix/site-window",\
-        "npm:1.43.0"\
+        "npm:1.44.0"\
       ],\
       [\
         "@wix/wix-data-items-common",\
-        "npm:1.0.227"\
+        "npm:1.0.238"\
       ],\
       [\
         "@wix/wix-data-items-sdk",\
-        "npm:1.0.420"\
+        "npm:1.0.432"\
       ],\
       [\
         "abbrev",\
@@ -643,7 +643,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],\
       [\
         "axios",\
-        "npm:1.11.0"\
+        "npm:1.12.2"\
       ],\
       [\
         "babel-jest",\
@@ -670,6 +670,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         "npm:1.0.2"\
       ],\
       [\
+        "baseline-browser-mapping",\
+        "npm:2.8.6"\
+      ],\
+      [\
         "brace-expansion",\
         "npm:2.0.2"\
       ],\
@@ -679,7 +683,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],\
       [\
         "browserslist",\
-        "npm:4.25.4"\
+        "npm:4.26.2"\
       ],\
       [\
         "bser",\
@@ -707,7 +711,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],\
       [\
         "caniuse-lite",\
-        "npm:1.0.30001741"\
+        "npm:1.0.30001743"\
       ],\
       [\
         "chalk",\
@@ -779,7 +783,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],\
       [\
         "debug",\
-        "virtual:ffade2903a4701eb4335a8fa42fa50796f82be3ca5c115da3b817ada5adedc1813f0898772f15874e5d8b4e98346e9b24720d1a1180ea98d64817037afb9b443#npm:4.4.1"\
+        "virtual:ffade2903a4701eb4335a8fa42fa50796f82be3ca5c115da3b817ada5adedc1813f0898772f15874e5d8b4e98346e9b24720d1a1180ea98d64817037afb9b443#npm:4.4.3"\
       ],\
       [\
         "decimal.js",\
@@ -815,7 +819,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],\
       [\
         "electron-to-chromium",\
-        "npm:1.5.217"\
+        "npm:1.5.222"\
       ],\
       [\
         "emittery",\
@@ -839,7 +843,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],\
       [\
         "error-ex",\
-        "npm:1.3.2"\
+        "npm:1.3.4"\
       ],\
       [\
         "es-define-property",\
@@ -907,7 +911,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],\
       [\
         "follow-redirects",\
-        "virtual:64966324acb1c9e829d59ac6bca19b45b43dc1234d7283c5d2bb20566c18be5fa16a88d38b39ab3c3bd238b9a4c2a56d68914ca1163a12899a78f10804e91e91#npm:1.15.11"\
+        "virtual:cdb8ea6c90bba762bf2366a1a88869c55a09bf9d9076ce8fcccf1e27011bd6d92acc154b2b250d8981e0c9daf722c96602b003df3b346cc7d59ad22f6b68080f#npm:1.15.11"\
       ],\
       [\
         "foreground-child",\
@@ -1359,7 +1363,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],\
       [\
         "node-releases",\
-        "npm:2.0.20"\
+        "npm:2.0.21"\
       ],\
       [\
         "nopt",\
@@ -1459,7 +1463,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],\
       [\
         "psdev-task-manager",\
-        "npm:2.0.1"\
+        "npm:2.0.4"\
       ],\
       [\
         "psdev-utils",\
@@ -1653,7 +1657,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],\
       [\
         "undici-types",\
-        "npm:7.10.0"\
+        "npm:7.12.0"\
       ],\
       [\
         "unique-filename",\
@@ -1669,7 +1673,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
       ],\
       [\
         "update-browserslist-db",\
-        "virtual:44917b377e025c777745b8d89b5d8773466ab4ed92576363952a2e80dbfc1b69c2f9ba845be34f48756cde502d2dbdb94ccdc3f052e7ba665ae5e10a7696e06e#npm:1.1.3"\
+        "virtual:713d4a89d17b986cd049d55a31a81dbec1caf092e3b6ed463f353fd4a3246417e821b15d7340b32b15a56077d915deb33f1731028a98a2619d7175c986a372d0#npm:1.1.3"\
       ],\
       [\
         "util-deprecate",\
@@ -1740,8 +1744,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {\
           "packageLocation": "./",\
           "packageDependencies": [\
-            ["@wix/data", "npm:1.0.290"],\
-            ["psdev-task-manager", "npm:2.0.1"],\
+            ["@wix/data", "npm:1.0.293"],\
+            ["psdev-task-manager", "npm:2.0.4"],\
             ["sr-npm", "npm:1.7.505"]\
           ],\
           "linkType": "SOFT"\
@@ -1784,7 +1788,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/types", "npm:7.28.4"],\
             ["@jridgewell/remapping", "npm:2.3.5"],\
             ["convert-source-map", "npm:2.0.0"],\
-            ["debug", "virtual:ffade2903a4701eb4335a8fa42fa50796f82be3ca5c115da3b817ada5adedc1813f0898772f15874e5d8b4e98346e9b24720d1a1180ea98d64817037afb9b443#npm:4.4.1"],\
+            ["debug", "virtual:ffade2903a4701eb4335a8fa42fa50796f82be3ca5c115da3b817ada5adedc1813f0898772f15874e5d8b4e98346e9b24720d1a1180ea98d64817037afb9b443#npm:4.4.3"],\
             ["gensync", "npm:1.0.0-beta.2"],\
             ["json5", "npm:2.2.3"],\
             ["semver", "npm:6.3.1"]\
@@ -1813,7 +1817,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/helper-compilation-targets", "npm:7.27.2"],\
             ["@babel/compat-data", "npm:7.28.4"],\
             ["@babel/helper-validator-option", "npm:7.27.1"],\
-            ["browserslist", "npm:4.25.4"],\
+            ["browserslist", "npm:4.26.2"],\
             ["lru-cache", "npm:5.1.1"],\
             ["semver", "npm:6.3.1"]\
           ],\
@@ -2555,7 +2559,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@babel/parser", "npm:7.28.4"],\
             ["@babel/template", "npm:7.27.2"],\
             ["@babel/types", "npm:7.28.4"],\
-            ["debug", "virtual:ffade2903a4701eb4335a8fa42fa50796f82be3ca5c115da3b817ada5adedc1813f0898772f15874e5d8b4e98346e9b24720d1a1180ea98d64817037afb9b443#npm:4.4.1"]\
+            ["debug", "virtual:ffade2903a4701eb4335a8fa42fa50796f82be3ca5c115da3b817ada5adedc1813f0898772f15874e5d8b4e98346e9b24720d1a1180ea98d64817037afb9b443#npm:4.4.3"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -2681,13 +2685,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "../dynamic-modules/yarn-cache/cache/@hisense-staging-velo-npm-npm-3.0.19-85faa02e48-8c0.zip/node_modules/@hisense-staging/velo-npm/",\
           "packageDependencies": [\
             ["@hisense-staging/velo-npm", "npm:3.0.19"],\
-            ["@wix/data", "npm:1.0.290"],\
+            ["@wix/data", "npm:1.0.293"],\
             ["@wix/essentials", "npm:0.1.28"],\
-            ["@wix/site-location", "npm:1.29.0"],\
+            ["@wix/site-location", "npm:1.31.0"],\
             ["@wix/site-seo", "npm:1.21.0"],\
             ["@wix/site-site", "npm:1.26.0"],\
             ["@wix/site-storage", "npm:1.22.0"],\
-            ["@wix/site-window", "npm:1.43.0"]\
+            ["@wix/site-window", "npm:1.44.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -2745,7 +2749,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["@jest/console", "npm:30.1.2"],\
             ["@jest/types", "npm:30.0.5"],\
-            ["@types/node", "npm:24.3.1"],\
+            ["@types/node", "npm:24.5.2"],\
             ["chalk", "npm:4.1.2"],\
             ["jest-message-util", "npm:30.1.0"],\
             ["jest-util", "npm:30.0.5"],\
@@ -2772,7 +2776,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@jest/test-result", "npm:30.1.3"],\
             ["@jest/transform", "npm:30.1.2"],\
             ["@jest/types", "npm:30.0.5"],\
-            ["@types/node", "npm:24.3.1"],\
+            ["@types/node", "npm:24.5.2"],\
             ["@types/node-notifier", null],\
             ["ansi-escapes", "npm:4.3.2"],\
             ["chalk", "npm:4.1.2"],\
@@ -2820,7 +2824,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@jest/environment", "npm:30.1.2"],\
             ["@jest/fake-timers", "npm:30.1.2"],\
             ["@jest/types", "npm:30.0.5"],\
-            ["@types/node", "npm:24.3.1"],\
+            ["@types/node", "npm:24.5.2"],\
             ["jest-mock", "npm:30.0.5"]\
           ],\
           "linkType": "HARD"\
@@ -2854,7 +2858,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@jest/fake-timers", "npm:30.1.2"],\
             ["@jest/types", "npm:30.0.5"],\
             ["@sinonjs/fake-timers", "npm:13.0.5"],\
-            ["@types/node", "npm:24.3.1"],\
+            ["@types/node", "npm:24.5.2"],\
             ["jest-message-util", "npm:30.1.0"],\
             ["jest-mock", "npm:30.0.5"],\
             ["jest-util", "npm:30.0.5"]\
@@ -2889,7 +2893,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "../dynamic-modules/yarn-cache/cache/@jest-pattern-npm-30.0.1-2ce04a6497-8c0.zip/node_modules/@jest/pattern/",\
           "packageDependencies": [\
             ["@jest/pattern", "npm:30.0.1"],\
-            ["@types/node", "npm:24.3.1"],\
+            ["@types/node", "npm:24.5.2"],\
             ["jest-regex-util", "npm:30.0.1"]\
           ],\
           "linkType": "HARD"\
@@ -2913,7 +2917,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@jest/transform", "npm:30.1.2"],\
             ["@jest/types", "npm:30.0.5"],\
             ["@jridgewell/trace-mapping", "npm:0.3.31"],\
-            ["@types/node", "npm:24.3.1"],\
+            ["@types/node", "npm:24.5.2"],\
             ["@types/node-notifier", null],\
             ["chalk", "npm:4.1.2"],\
             ["collect-v8-coverage", "npm:1.0.2"],\
@@ -3034,7 +3038,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@jest/schemas", "npm:30.0.5"],\
             ["@types/istanbul-lib-coverage", "npm:2.0.6"],\
             ["@types/istanbul-reports", "npm:3.0.4"],\
-            ["@types/node", "npm:24.3.1"],\
+            ["@types/node", "npm:24.5.2"],\
             ["@types/yargs", "npm:17.0.33"],\
             ["chalk", "npm:4.1.2"]\
           ],\
@@ -3099,7 +3103,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@napi-rs/wasm-runtime", "npm:0.2.12"],\
             ["@emnapi/core", "npm:1.5.0"],\
             ["@emnapi/runtime", "npm:1.5.0"],\
-            ["@tybys/wasm-util", "npm:0.10.0"]\
+            ["@tybys/wasm-util", "npm:0.10.1"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -3183,10 +3187,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@tybys/wasm-util", [\
-        ["npm:0.10.0", {\
-          "packageLocation": "../dynamic-modules/yarn-cache/cache/@tybys-wasm-util-npm-0.10.0-5601bb24f9-8c0.zip/node_modules/@tybys/wasm-util/",\
+        ["npm:0.10.1", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/@tybys-wasm-util-npm-0.10.1-607c8a7e5c-8c0.zip/node_modules/@tybys/wasm-util/",\
           "packageDependencies": [\
-            ["@tybys/wasm-util", "npm:0.10.0"],\
+            ["@tybys/wasm-util", "npm:0.10.1"],\
             ["tslib", "npm:2.8.1"]\
           ],\
           "linkType": "HARD"\
@@ -3271,17 +3275,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "../dynamic-modules/yarn-cache/cache/@types-kind-of-npm-6.0.3-8abe2b109f-8c0.zip/node_modules/@types/kind-of/",\
           "packageDependencies": [\
             ["@types/kind-of", "npm:6.0.3"],\
-            ["@types/node", "npm:24.3.1"]\
+            ["@types/node", "npm:24.5.2"]\
           ],\
           "linkType": "HARD"\
         }]\
       ]],\
       ["@types/node", [\
-        ["npm:24.3.1", {\
-          "packageLocation": "../dynamic-modules/yarn-cache/cache/@types-node-npm-24.3.1-b558101365-8c0.zip/node_modules/@types/node/",\
+        ["npm:24.5.2", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/@types-node-npm-24.5.2-7697d08520-8c0.zip/node_modules/@types/node/",\
           "packageDependencies": [\
-            ["@types/node", "npm:24.3.1"],\
-            ["undici-types", "npm:7.10.0"]\
+            ["@types/node", "npm:24.5.2"],\
+            ["undici-types", "npm:7.12.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -3505,88 +3509,88 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@wix/auto_sdk_data_backups", [\
-        ["npm:1.0.26", {\
-          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-auto_sdk_data_backups-npm-1.0.26-5df59d23ff-8c0.zip/node_modules/@wix/auto_sdk_data_backups/",\
+        ["npm:1.0.27", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-auto_sdk_data_backups-npm-1.0.27-854a8a4d3c-8c0.zip/node_modules/@wix/auto_sdk_data_backups/",\
           "packageDependencies": [\
-            ["@wix/auto_sdk_data_backups", "npm:1.0.26"],\
-            ["@wix/sdk-runtime", "npm:0.3.62"],\
+            ["@wix/auto_sdk_data_backups", "npm:1.0.27"],\
+            ["@wix/sdk-runtime", "npm:0.5.0"],\
             ["@wix/sdk-types", "npm:1.14.0"]\
           ],\
           "linkType": "HARD"\
         }]\
       ]],\
       ["@wix/auto_sdk_data_collections", [\
-        ["npm:1.0.32", {\
-          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-auto_sdk_data_collections-npm-1.0.32-71778c8576-8c0.zip/node_modules/@wix/auto_sdk_data_collections/",\
+        ["npm:1.0.33", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-auto_sdk_data_collections-npm-1.0.33-f0411b1444-8c0.zip/node_modules/@wix/auto_sdk_data_collections/",\
           "packageDependencies": [\
-            ["@wix/auto_sdk_data_collections", "npm:1.0.32"],\
-            ["@wix/sdk-runtime", "npm:0.3.62"],\
+            ["@wix/auto_sdk_data_collections", "npm:1.0.33"],\
+            ["@wix/sdk-runtime", "npm:0.5.0"],\
             ["@wix/sdk-types", "npm:1.14.0"]\
           ],\
           "linkType": "HARD"\
         }]\
       ]],\
       ["@wix/auto_sdk_data_external-database", [\
-        ["npm:1.0.14", {\
-          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-auto_sdk_data_external-database-npm-1.0.14-efdd6444bf-8c0.zip/node_modules/@wix/auto_sdk_data_external-database/",\
+        ["npm:1.0.15", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-auto_sdk_data_external-database-npm-1.0.15-21e4e80d33-8c0.zip/node_modules/@wix/auto_sdk_data_external-database/",\
           "packageDependencies": [\
-            ["@wix/auto_sdk_data_external-database", "npm:1.0.14"],\
-            ["@wix/sdk-runtime", "npm:0.3.62"],\
+            ["@wix/auto_sdk_data_external-database", "npm:1.0.15"],\
+            ["@wix/sdk-runtime", "npm:0.5.0"],\
             ["@wix/sdk-types", "npm:1.14.0"]\
           ],\
           "linkType": "HARD"\
         }]\
       ]],\
       ["@wix/auto_sdk_data_external-database-connections", [\
-        ["npm:1.0.26", {\
-          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-auto_sdk_data_external-database-connections-npm-1.0.26-a69e1cc2c0-8c0.zip/node_modules/@wix/auto_sdk_data_external-database-connections/",\
+        ["npm:1.0.27", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-auto_sdk_data_external-database-connections-npm-1.0.27-4f1bbc06d4-8c0.zip/node_modules/@wix/auto_sdk_data_external-database-connections/",\
           "packageDependencies": [\
-            ["@wix/auto_sdk_data_external-database-connections", "npm:1.0.26"],\
-            ["@wix/sdk-runtime", "npm:0.3.62"],\
+            ["@wix/auto_sdk_data_external-database-connections", "npm:1.0.27"],\
+            ["@wix/sdk-runtime", "npm:0.5.0"],\
             ["@wix/sdk-types", "npm:1.14.0"]\
           ],\
           "linkType": "HARD"\
         }]\
       ]],\
       ["@wix/auto_sdk_data_indexes", [\
-        ["npm:1.0.24", {\
-          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-auto_sdk_data_indexes-npm-1.0.24-847bfc6309-8c0.zip/node_modules/@wix/auto_sdk_data_indexes/",\
+        ["npm:1.0.25", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-auto_sdk_data_indexes-npm-1.0.25-168fdd7408-8c0.zip/node_modules/@wix/auto_sdk_data_indexes/",\
           "packageDependencies": [\
-            ["@wix/auto_sdk_data_indexes", "npm:1.0.24"],\
-            ["@wix/sdk-runtime", "npm:0.3.62"],\
+            ["@wix/auto_sdk_data_indexes", "npm:1.0.25"],\
+            ["@wix/sdk-runtime", "npm:0.5.0"],\
             ["@wix/sdk-types", "npm:1.14.0"]\
           ],\
           "linkType": "HARD"\
         }]\
       ]],\
       ["@wix/auto_sdk_data_movement-jobs", [\
-        ["npm:1.0.13", {\
-          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-auto_sdk_data_movement-jobs-npm-1.0.13-2f9a9e4c6b-8c0.zip/node_modules/@wix/auto_sdk_data_movement-jobs/",\
+        ["npm:1.0.14", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-auto_sdk_data_movement-jobs-npm-1.0.14-6040128381-8c0.zip/node_modules/@wix/auto_sdk_data_movement-jobs/",\
           "packageDependencies": [\
-            ["@wix/auto_sdk_data_movement-jobs", "npm:1.0.13"],\
-            ["@wix/sdk-runtime", "npm:0.3.62"],\
+            ["@wix/auto_sdk_data_movement-jobs", "npm:1.0.14"],\
+            ["@wix/sdk-runtime", "npm:0.5.0"],\
             ["@wix/sdk-types", "npm:1.14.0"]\
           ],\
           "linkType": "HARD"\
         }]\
       ]],\
       ["@wix/auto_sdk_data_permissions", [\
-        ["npm:1.0.31", {\
-          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-auto_sdk_data_permissions-npm-1.0.31-607db8df86-8c0.zip/node_modules/@wix/auto_sdk_data_permissions/",\
+        ["npm:1.0.33", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-auto_sdk_data_permissions-npm-1.0.33-83f2488b8d-8c0.zip/node_modules/@wix/auto_sdk_data_permissions/",\
           "packageDependencies": [\
-            ["@wix/auto_sdk_data_permissions", "npm:1.0.31"],\
-            ["@wix/sdk-runtime", "npm:0.3.62"],\
+            ["@wix/auto_sdk_data_permissions", "npm:1.0.33"],\
+            ["@wix/sdk-runtime", "npm:0.5.0"],\
             ["@wix/sdk-types", "npm:1.14.0"]\
           ],\
           "linkType": "HARD"\
         }]\
       ]],\
       ["@wix/auto_sdk_data_tasks", [\
-        ["npm:1.0.21", {\
-          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-auto_sdk_data_tasks-npm-1.0.21-6d354e923b-8c0.zip/node_modules/@wix/auto_sdk_data_tasks/",\
+        ["npm:1.0.22", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-auto_sdk_data_tasks-npm-1.0.22-bbe8b7bb8e-8c0.zip/node_modules/@wix/auto_sdk_data_tasks/",\
           "packageDependencies": [\
-            ["@wix/auto_sdk_data_tasks", "npm:1.0.21"],\
-            ["@wix/sdk-runtime", "npm:0.3.62"],\
+            ["@wix/auto_sdk_data_tasks", "npm:1.0.22"],\
+            ["@wix/sdk-runtime", "npm:0.5.0"],\
             ["@wix/sdk-types", "npm:1.14.0"]\
           ],\
           "linkType": "HARD"\
@@ -3604,19 +3608,19 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@wix/data", [\
-        ["npm:1.0.290", {\
-          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-data-npm-1.0.290-8d192c03fa-8c0.zip/node_modules/@wix/data/",\
+        ["npm:1.0.293", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-data-npm-1.0.293-506df94eaf-8c0.zip/node_modules/@wix/data/",\
           "packageDependencies": [\
-            ["@wix/data", "npm:1.0.290"],\
-            ["@wix/auto_sdk_data_backups", "npm:1.0.26"],\
-            ["@wix/auto_sdk_data_collections", "npm:1.0.32"],\
-            ["@wix/auto_sdk_data_external-database", "npm:1.0.14"],\
-            ["@wix/auto_sdk_data_external-database-connections", "npm:1.0.26"],\
-            ["@wix/auto_sdk_data_indexes", "npm:1.0.24"],\
-            ["@wix/auto_sdk_data_movement-jobs", "npm:1.0.13"],\
-            ["@wix/auto_sdk_data_permissions", "npm:1.0.31"],\
-            ["@wix/auto_sdk_data_tasks", "npm:1.0.21"],\
-            ["@wix/wix-data-items-sdk", "npm:1.0.420"]\
+            ["@wix/data", "npm:1.0.293"],\
+            ["@wix/auto_sdk_data_backups", "npm:1.0.27"],\
+            ["@wix/auto_sdk_data_collections", "npm:1.0.33"],\
+            ["@wix/auto_sdk_data_external-database", "npm:1.0.15"],\
+            ["@wix/auto_sdk_data_external-database-connections", "npm:1.0.27"],\
+            ["@wix/auto_sdk_data_indexes", "npm:1.0.25"],\
+            ["@wix/auto_sdk_data_movement-jobs", "npm:1.0.14"],\
+            ["@wix/auto_sdk_data_permissions", "npm:1.0.33"],\
+            ["@wix/auto_sdk_data_tasks", "npm:1.0.22"],\
+            ["@wix/wix-data-items-sdk", "npm:1.0.432"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -3699,10 +3703,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@wix/filter-builder", [\
-        ["npm:1.0.192", {\
-          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-filter-builder-npm-1.0.192-d6ab6ec04d-8c0.zip/node_modules/@wix/filter-builder/",\
+        ["npm:1.0.200", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-filter-builder-npm-1.0.200-a4a3da0c1a-8c0.zip/node_modules/@wix/filter-builder/",\
           "packageDependencies": [\
-            ["@wix/filter-builder", "npm:1.0.192"],\
+            ["@wix/filter-builder", "npm:1.0.200"],\
             ["@babel/runtime", "npm:7.28.4"],\
             ["kind-of", "npm:5.1.0"],\
             ["tslib", "npm:2.8.1"]\
@@ -3747,6 +3751,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@wix/sdk-types", "npm:1.14.0"]\
           ],\
           "linkType": "HARD"\
+        }],\
+        ["npm:0.5.0", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-sdk-runtime-npm-0.5.0-60a84863e5-8c0.zip/node_modules/@wix/sdk-runtime/",\
+          "packageDependencies": [\
+            ["@wix/sdk-runtime", "npm:0.5.0"],\
+            ["@wix/sdk-context", "npm:0.0.1"],\
+            ["@wix/sdk-types", "npm:1.14.0"]\
+          ],\
+          "linkType": "HARD"\
         }]\
       ]],\
       ["@wix/sdk-types", [\
@@ -3772,10 +3785,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@wix/site-location", [\
-        ["npm:1.29.0", {\
-          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-site-location-npm-1.29.0-3119b896bc-8c0.zip/node_modules/@wix/site-location/",\
+        ["npm:1.31.0", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-site-location-npm-1.31.0-46fc08b25c-8c0.zip/node_modules/@wix/site-location/",\
           "packageDependencies": [\
-            ["@wix/site-location", "npm:1.29.0"],\
+            ["@wix/site-location", "npm:1.31.0"],\
             ["@babel/runtime", "npm:7.28.4"],\
             ["@wix/sdk-runtime", "npm:0.3.62"],\
             ["@wix/sdk-types", "npm:1.14.0"]\
@@ -3820,10 +3833,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@wix/site-window", [\
-        ["npm:1.43.0", {\
-          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-site-window-npm-1.43.0-466798bd90-8c0.zip/node_modules/@wix/site-window/",\
+        ["npm:1.44.0", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-site-window-npm-1.44.0-75654c36ba-8c0.zip/node_modules/@wix/site-window/",\
           "packageDependencies": [\
-            ["@wix/site-window", "npm:1.43.0"],\
+            ["@wix/site-window", "npm:1.44.0"],\
             ["@babel/runtime", "npm:7.28.4"],\
             ["@wix/sdk-runtime", "npm:0.3.62"],\
             ["@wix/sdk-types", "npm:1.14.0"]\
@@ -3832,14 +3845,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@wix/wix-data-items-common", [\
-        ["npm:1.0.227", {\
-          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-wix-data-items-common-npm-1.0.227-223416d6bb-8c0.zip/node_modules/@wix/wix-data-items-common/",\
+        ["npm:1.0.238", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-wix-data-items-common-npm-1.0.238-9434eb5185-8c0.zip/node_modules/@wix/wix-data-items-common/",\
           "packageDependencies": [\
-            ["@wix/wix-data-items-common", "npm:1.0.227"],\
+            ["@wix/wix-data-items-common", "npm:1.0.238"],\
             ["@babel/runtime", "npm:7.28.4"],\
             ["@types/kind-of", "npm:6.0.3"],\
             ["@types/safe-json-stringify", "npm:1.1.5"],\
-            ["@wix/filter-builder", "npm:1.0.192"],\
+            ["@wix/filter-builder", "npm:1.0.200"],\
             ["kind-of", "npm:6.0.3"],\
             ["safe-json-stringify", "npm:1.2.0"]\
           ],\
@@ -3847,13 +3860,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["@wix/wix-data-items-sdk", [\
-        ["npm:1.0.420", {\
-          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-wix-data-items-sdk-npm-1.0.420-2776d7269d-8c0.zip/node_modules/@wix/wix-data-items-sdk/",\
+        ["npm:1.0.432", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/@wix-wix-data-items-sdk-npm-1.0.432-76bdc3d18b-8c0.zip/node_modules/@wix/wix-data-items-sdk/",\
           "packageDependencies": [\
-            ["@wix/wix-data-items-sdk", "npm:1.0.420"],\
-            ["@wix/sdk-runtime", "npm:0.3.62"],\
+            ["@wix/wix-data-items-sdk", "npm:1.0.432"],\
+            ["@wix/sdk-runtime", "npm:0.5.0"],\
             ["@wix/sdk-types", "npm:1.14.0"],\
-            ["@wix/wix-data-items-common", "npm:1.0.227"]\
+            ["@wix/wix-data-items-common", "npm:1.0.238"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -3872,7 +3885,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "../dynamic-modules/yarn-cache/cache/agent-base-npm-6.0.2-428f325a93-8c0.zip/node_modules/agent-base/",\
           "packageDependencies": [\
             ["agent-base", "npm:6.0.2"],\
-            ["debug", "virtual:ffade2903a4701eb4335a8fa42fa50796f82be3ca5c115da3b817ada5adedc1813f0898772f15874e5d8b4e98346e9b24720d1a1180ea98d64817037afb9b443#npm:4.4.1"]\
+            ["debug", "virtual:ffade2903a4701eb4335a8fa42fa50796f82be3ca5c115da3b817ada5adedc1813f0898772f15874e5d8b4e98346e9b24720d1a1180ea98d64817037afb9b443#npm:4.4.3"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -3999,11 +4012,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["axios", [\
-        ["npm:1.11.0", {\
-          "packageLocation": "../dynamic-modules/yarn-cache/cache/axios-npm-1.11.0-64966324ac-8c0.zip/node_modules/axios/",\
+        ["npm:1.12.2", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/axios-npm-1.12.2-cdb8ea6c90-8c0.zip/node_modules/axios/",\
           "packageDependencies": [\
-            ["axios", "npm:1.11.0"],\
-            ["follow-redirects", "virtual:64966324acb1c9e829d59ac6bca19b45b43dc1234d7283c5d2bb20566c18be5fa16a88d38b39ab3c3bd238b9a4c2a56d68914ca1163a12899a78f10804e91e91#npm:1.15.11"],\
+            ["axios", "npm:1.12.2"],\
+            ["follow-redirects", "virtual:cdb8ea6c90bba762bf2366a1a88869c55a09bf9d9076ce8fcccf1e27011bd6d92acc154b2b250d8981e0c9daf722c96602b003df3b346cc7d59ad22f6b68080f#npm:1.15.11"],\
             ["form-data", "npm:4.0.4"],\
             ["proxy-from-env", "npm:1.1.0"]\
           ],\
@@ -4161,6 +4174,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
+      ["baseline-browser-mapping", [\
+        ["npm:2.8.6", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/baseline-browser-mapping-npm-2.8.6-e7ad57610f-8c0.zip/node_modules/baseline-browser-mapping/",\
+          "packageDependencies": [\
+            ["baseline-browser-mapping", "npm:2.8.6"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
       ["brace-expansion", [\
         ["npm:1.1.12", {\
           "packageLocation": "../dynamic-modules/yarn-cache/cache/brace-expansion-npm-1.1.12-329e9ad7a1-8c0.zip/node_modules/brace-expansion/",\
@@ -4191,14 +4213,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["browserslist", [\
-        ["npm:4.25.4", {\
-          "packageLocation": "../dynamic-modules/yarn-cache/cache/browserslist-npm-4.25.4-44917b377e-8c0.zip/node_modules/browserslist/",\
+        ["npm:4.26.2", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/browserslist-npm-4.26.2-713d4a89d1-8c0.zip/node_modules/browserslist/",\
           "packageDependencies": [\
-            ["browserslist", "npm:4.25.4"],\
-            ["caniuse-lite", "npm:1.0.30001741"],\
-            ["electron-to-chromium", "npm:1.5.217"],\
-            ["node-releases", "npm:2.0.20"],\
-            ["update-browserslist-db", "virtual:44917b377e025c777745b8d89b5d8773466ab4ed92576363952a2e80dbfc1b69c2f9ba845be34f48756cde502d2dbdb94ccdc3f052e7ba665ae5e10a7696e06e#npm:1.1.3"]\
+            ["browserslist", "npm:4.26.2"],\
+            ["baseline-browser-mapping", "npm:2.8.6"],\
+            ["caniuse-lite", "npm:1.0.30001743"],\
+            ["electron-to-chromium", "npm:1.5.222"],\
+            ["node-releases", "npm:2.0.21"],\
+            ["update-browserslist-db", "virtual:713d4a89d17b986cd049d55a31a81dbec1caf092e3b6ed463f353fd4a3246417e821b15d7340b32b15a56077d915deb33f1731028a98a2619d7175c986a372d0#npm:1.1.3"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -4286,10 +4309,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["caniuse-lite", [\
-        ["npm:1.0.30001741", {\
-          "packageLocation": "../dynamic-modules/yarn-cache/cache/caniuse-lite-npm-1.0.30001741-161d716cee-8c0.zip/node_modules/caniuse-lite/",\
+        ["npm:1.0.30001743", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/caniuse-lite-npm-1.0.30001743-6b250fb7b2-8c0.zip/node_modules/caniuse-lite/",\
           "packageDependencies": [\
-            ["caniuse-lite", "npm:1.0.30001741"]\
+            ["caniuse-lite", "npm:1.0.30001743"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -4458,17 +4481,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["debug", [\
-        ["npm:4.4.1", {\
-          "packageLocation": "../dynamic-modules/yarn-cache/cache/debug-npm-4.4.1-6eab84b9f7-8c0.zip/node_modules/debug/",\
+        ["npm:4.4.3", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/debug-npm-4.4.3-0105c6123a-8c0.zip/node_modules/debug/",\
           "packageDependencies": [\
-            ["debug", "npm:4.4.1"]\
+            ["debug", "npm:4.4.3"]\
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:ffade2903a4701eb4335a8fa42fa50796f82be3ca5c115da3b817ada5adedc1813f0898772f15874e5d8b4e98346e9b24720d1a1180ea98d64817037afb9b443#npm:4.4.1", {\
-          "packageLocation": "./.yarn/__virtual__/debug-virtual-5a1a16a189/2/dynamic-modules/yarn-cache/cache/debug-npm-4.4.1-6eab84b9f7-8c0.zip/node_modules/debug/",\
+        ["virtual:ffade2903a4701eb4335a8fa42fa50796f82be3ca5c115da3b817ada5adedc1813f0898772f15874e5d8b4e98346e9b24720d1a1180ea98d64817037afb9b443#npm:4.4.3", {\
+          "packageLocation": "./.yarn/__virtual__/debug-virtual-d9a70864af/2/dynamic-modules/yarn-cache/cache/debug-npm-4.4.3-0105c6123a-8c0.zip/node_modules/debug/",\
           "packageDependencies": [\
-            ["debug", "virtual:ffade2903a4701eb4335a8fa42fa50796f82be3ca5c115da3b817ada5adedc1813f0898772f15874e5d8b4e98346e9b24720d1a1180ea98d64817037afb9b443#npm:4.4.1"],\
+            ["debug", "virtual:ffade2903a4701eb4335a8fa42fa50796f82be3ca5c115da3b817ada5adedc1813f0898772f15874e5d8b4e98346e9b24720d1a1180ea98d64817037afb9b443#npm:4.4.3"],\
             ["@types/supports-color", null],\
             ["ms", "npm:2.1.3"],\
             ["supports-color", null]\
@@ -4569,10 +4592,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["electron-to-chromium", [\
-        ["npm:1.5.217", {\
-          "packageLocation": "../dynamic-modules/yarn-cache/cache/electron-to-chromium-npm-1.5.217-e08bca472d-8c0.zip/node_modules/electron-to-chromium/",\
+        ["npm:1.5.222", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/electron-to-chromium-npm-1.5.222-b1fdcbe0b2-8c0.zip/node_modules/electron-to-chromium/",\
           "packageDependencies": [\
-            ["electron-to-chromium", "npm:1.5.217"]\
+            ["electron-to-chromium", "npm:1.5.222"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -4631,10 +4654,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["error-ex", [\
-        ["npm:1.3.2", {\
-          "packageLocation": "../dynamic-modules/yarn-cache/cache/error-ex-npm-1.3.2-5654f80c0f-8c0.zip/node_modules/error-ex/",\
+        ["npm:1.3.4", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/error-ex-npm-1.3.4-c7248e4040-8c0.zip/node_modules/error-ex/",\
           "packageDependencies": [\
-            ["error-ex", "npm:1.3.2"],\
+            ["error-ex", "npm:1.3.4"],\
             ["is-arrayish", "npm:0.2.1"]\
           ],\
           "linkType": "HARD"\
@@ -4816,10 +4839,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:64966324acb1c9e829d59ac6bca19b45b43dc1234d7283c5d2bb20566c18be5fa16a88d38b39ab3c3bd238b9a4c2a56d68914ca1163a12899a78f10804e91e91#npm:1.15.11", {\
-          "packageLocation": "./.yarn/__virtual__/follow-redirects-virtual-2a4fb7a6cc/2/dynamic-modules/yarn-cache/cache/follow-redirects-npm-1.15.11-ae7b2db266-8c0.zip/node_modules/follow-redirects/",\
+        ["virtual:cdb8ea6c90bba762bf2366a1a88869c55a09bf9d9076ce8fcccf1e27011bd6d92acc154b2b250d8981e0c9daf722c96602b003df3b346cc7d59ad22f6b68080f#npm:1.15.11", {\
+          "packageLocation": "./.yarn/__virtual__/follow-redirects-virtual-1c36f0670e/2/dynamic-modules/yarn-cache/cache/follow-redirects-npm-1.15.11-ae7b2db266-8c0.zip/node_modules/follow-redirects/",\
           "packageDependencies": [\
-            ["follow-redirects", "virtual:64966324acb1c9e829d59ac6bca19b45b43dc1234d7283c5d2bb20566c18be5fa16a88d38b39ab3c3bd238b9a4c2a56d68914ca1163a12899a78f10804e91e91#npm:1.15.11"],\
+            ["follow-redirects", "virtual:cdb8ea6c90bba762bf2366a1a88869c55a09bf9d9076ce8fcccf1e27011bd6d92acc154b2b250d8981e0c9daf722c96602b003df3b346cc7d59ad22f6b68080f#npm:1.15.11"],\
             ["@types/debug", null],\
             ["debug", null]\
           ],\
@@ -5115,7 +5138,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["http-proxy-agent", "npm:5.0.0"],\
             ["@tootallnate/once", "npm:2.0.0"],\
             ["agent-base", "npm:6.0.2"],\
-            ["debug", "virtual:ffade2903a4701eb4335a8fa42fa50796f82be3ca5c115da3b817ada5adedc1813f0898772f15874e5d8b4e98346e9b24720d1a1180ea98d64817037afb9b443#npm:4.4.1"]\
+            ["debug", "virtual:ffade2903a4701eb4335a8fa42fa50796f82be3ca5c115da3b817ada5adedc1813f0898772f15874e5d8b4e98346e9b24720d1a1180ea98d64817037afb9b443#npm:4.4.3"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -5135,7 +5158,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["https-proxy-agent", "npm:5.0.1"],\
             ["agent-base", "npm:6.0.2"],\
-            ["debug", "virtual:ffade2903a4701eb4335a8fa42fa50796f82be3ca5c115da3b817ada5adedc1813f0898772f15874e5d8b4e98346e9b24720d1a1180ea98d64817037afb9b443#npm:4.4.1"]\
+            ["debug", "virtual:ffade2903a4701eb4335a8fa42fa50796f82be3ca5c115da3b817ada5adedc1813f0898772f15874e5d8b4e98346e9b24720d1a1180ea98d64817037afb9b443#npm:4.4.3"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -5398,7 +5421,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["istanbul-lib-source-maps", "npm:5.0.6"],\
             ["@jridgewell/trace-mapping", "npm:0.3.31"],\
-            ["debug", "virtual:ffade2903a4701eb4335a8fa42fa50796f82be3ca5c115da3b817ada5adedc1813f0898772f15874e5d8b4e98346e9b24720d1a1180ea98d64817037afb9b443#npm:4.4.1"],\
+            ["debug", "virtual:ffade2903a4701eb4335a8fa42fa50796f82be3ca5c115da3b817ada5adedc1813f0898772f15874e5d8b4e98346e9b24720d1a1180ea98d64817037afb9b443#npm:4.4.3"],\
             ["istanbul-lib-coverage", "npm:3.2.2"]\
           ],\
           "linkType": "HARD"\
@@ -5473,7 +5496,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@jest/expect", "npm:30.1.2"],\
             ["@jest/test-result", "npm:30.1.3"],\
             ["@jest/types", "npm:30.0.5"],\
-            ["@types/node", "npm:24.3.1"],\
+            ["@types/node", "npm:24.5.2"],\
             ["chalk", "npm:4.1.2"],\
             ["co", "npm:4.6.0"],\
             ["dedent", "virtual:ab9758c6bfe03305dbfad0b14a56925c94cf408b5c552434067c579e2e21eac1e4ca98799c61f9456577ca92e422a363e8b158714a6b51521958bf563fc4bee6#npm:1.7.0"],\
@@ -5586,7 +5609,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@jest/test-sequencer", "npm:30.1.3"],\
             ["@jest/types", "npm:30.0.5"],\
             ["@types/esbuild-register", null],\
-            ["@types/node", "npm:24.3.1"],\
+            ["@types/node", "npm:24.5.2"],\
             ["@types/ts-node", null],\
             ["babel-jest", "virtual:5fe1b0eb31e7550202e02b42abceb06ba525a91e7b4486894fbfa423e0c9c778c00afd26214253b63d34d51d4ef380388a39b8abbaf3883618f55da756c283a6#npm:30.1.2"],\
             ["chalk", "npm:4.1.2"],\
@@ -5665,7 +5688,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@jest/environment", "npm:30.1.2"],\
             ["@jest/fake-timers", "npm:30.1.2"],\
             ["@jest/types", "npm:30.0.5"],\
-            ["@types/node", "npm:24.3.1"],\
+            ["@types/node", "npm:24.5.2"],\
             ["jest-mock", "npm:30.0.5"],\
             ["jest-util", "npm:30.0.5"],\
             ["jest-validate", "npm:30.1.0"]\
@@ -5679,7 +5702,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["jest-haste-map", "npm:30.1.0"],\
             ["@jest/types", "npm:30.0.5"],\
-            ["@types/node", "npm:24.3.1"],\
+            ["@types/node", "npm:24.5.2"],\
             ["anymatch", "npm:3.1.3"],\
             ["fb-watchman", "npm:2.0.2"],\
             ["fsevents", "patch:fsevents@npm%3A2.3.3#~builtin<compat/fsevents>::version=2.3.3&hash=df0bf1"],\
@@ -5741,7 +5764,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["jest-mock", "npm:30.0.5"],\
             ["@jest/types", "npm:30.0.5"],\
-            ["@types/node", "npm:24.3.1"],\
+            ["@types/node", "npm:24.5.2"],\
             ["jest-util", "npm:30.0.5"]\
           ],\
           "linkType": "HARD"\
@@ -5816,7 +5839,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@jest/test-result", "npm:30.1.3"],\
             ["@jest/transform", "npm:30.1.2"],\
             ["@jest/types", "npm:30.0.5"],\
-            ["@types/node", "npm:24.3.1"],\
+            ["@types/node", "npm:24.5.2"],\
             ["chalk", "npm:4.1.2"],\
             ["emittery", "npm:0.13.1"],\
             ["exit-x", "npm:0.2.2"],\
@@ -5849,7 +5872,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@jest/test-result", "npm:30.1.3"],\
             ["@jest/transform", "npm:30.1.2"],\
             ["@jest/types", "npm:30.0.5"],\
-            ["@types/node", "npm:24.3.1"],\
+            ["@types/node", "npm:24.5.2"],\
             ["chalk", "npm:4.1.2"],\
             ["cjs-module-lexer", "npm:2.1.0"],\
             ["collect-v8-coverage", "npm:1.0.2"],\
@@ -5904,7 +5927,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["jest-util", "npm:30.0.5"],\
             ["@jest/types", "npm:30.0.5"],\
-            ["@types/node", "npm:24.3.1"],\
+            ["@types/node", "npm:24.5.2"],\
             ["chalk", "npm:4.1.2"],\
             ["ci-info", "npm:4.3.0"],\
             ["graceful-fs", "npm:4.2.11"],\
@@ -5935,7 +5958,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["jest-watcher", "npm:30.1.3"],\
             ["@jest/test-result", "npm:30.1.3"],\
             ["@jest/types", "npm:30.0.5"],\
-            ["@types/node", "npm:24.3.1"],\
+            ["@types/node", "npm:24.5.2"],\
             ["ansi-escapes", "npm:4.3.2"],\
             ["chalk", "npm:4.1.2"],\
             ["emittery", "npm:0.13.1"],\
@@ -5950,7 +5973,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "../dynamic-modules/yarn-cache/cache/jest-worker-npm-30.1.0-b4a01545e6-8c0.zip/node_modules/jest-worker/",\
           "packageDependencies": [\
             ["jest-worker", "npm:30.1.0"],\
-            ["@types/node", "npm:24.3.1"],\
+            ["@types/node", "npm:24.5.2"],\
             ["@ungap/structured-clone", "npm:1.3.0"],\
             ["jest-util", "npm:30.0.5"],\
             ["merge-stream", "npm:2.0.0"],\
@@ -6365,10 +6388,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["node-releases", [\
-        ["npm:2.0.20", {\
-          "packageLocation": "../dynamic-modules/yarn-cache/cache/node-releases-npm-2.0.20-06571817ce-8c0.zip/node_modules/node-releases/",\
+        ["npm:2.0.21", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/node-releases-npm-2.0.21-93f7457975-8c0.zip/node_modules/node-releases/",\
           "packageDependencies": [\
-            ["node-releases", "npm:2.0.20"]\
+            ["node-releases", "npm:2.0.21"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -6497,7 +6520,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["parse-json", "npm:5.2.0"],\
             ["@babel/code-frame", "npm:7.27.1"],\
-            ["error-ex", "npm:1.3.2"],\
+            ["error-ex", "npm:1.3.4"],\
             ["json-parse-even-better-errors", "npm:2.3.1"],\
             ["lines-and-columns", "npm:1.2.4"]\
           ],\
@@ -6641,11 +6664,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["psdev-task-manager", [\
-        ["npm:2.0.1", {\
-          "packageLocation": "../dynamic-modules/yarn-cache/cache/psdev-task-manager-npm-2.0.1-4064c70aa5-8c0.zip/node_modules/psdev-task-manager/",\
+        ["npm:2.0.4", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/psdev-task-manager-npm-2.0.4-bd9e623e34-8c0.zip/node_modules/psdev-task-manager/",\
           "packageDependencies": [\
-            ["psdev-task-manager", "npm:2.0.1"],\
-            ["@wix/data", "npm:1.0.290"],\
+            ["psdev-task-manager", "npm:2.0.4"],\
+            ["@wix/data", "npm:1.0.293"],\
             ["@wix/essentials", "npm:0.1.28"],\
             ["psdev-utils", "npm:1.0.2"]\
           ],\
@@ -6860,7 +6883,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["socks-proxy-agent", "npm:7.0.0"],\
             ["agent-base", "npm:6.0.2"],\
-            ["debug", "virtual:ffade2903a4701eb4335a8fa42fa50796f82be3ca5c115da3b817ada5adedc1813f0898772f15874e5d8b4e98346e9b24720d1a1180ea98d64817037afb9b443#npm:4.4.1"],\
+            ["debug", "virtual:ffade2903a4701eb4335a8fa42fa50796f82be3ca5c115da3b817ada5adedc1813f0898772f15874e5d8b4e98346e9b24720d1a1180ea98d64817037afb9b443#npm:4.4.3"],\
             ["socks", "npm:2.8.7"]\
           ],\
           "linkType": "HARD"\
@@ -6901,12 +6924,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["sr-npm", "npm:1.7.505"],\
             ["@hisense-staging/velo-npm", "npm:3.0.19"],\
-            ["@wix/data", "npm:1.0.290"],\
+            ["@wix/data", "npm:1.0.293"],\
             ["@wix/essentials", "npm:0.1.28"],\
             ["@wix/secrets", "npm:1.0.53"],\
-            ["@wix/site-location", "npm:1.29.0"],\
-            ["@wix/site-window", "npm:1.43.0"],\
-            ["axios", "npm:1.11.0"],\
+            ["@wix/site-location", "npm:1.31.0"],\
+            ["@wix/site-window", "npm:1.44.0"],\
+            ["axios", "npm:1.12.2"],\
             ["jest", "virtual:1c2af0dc99d2d267f1733ae1cd23e9bfd6a267e647276c9ba9d0aa7978879659e28287ec045886fa9d5299573373c5a8395138a96bdc31c924933e56dd213b2e#npm:30.1.3"],\
             ["tests-utils", "npm:1.0.7"]\
           ],\
@@ -7139,10 +7162,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["undici-types", [\
-        ["npm:7.10.0", {\
-          "packageLocation": "../dynamic-modules/yarn-cache/cache/undici-types-npm-7.10.0-cd8324b9eb-8c0.zip/node_modules/undici-types/",\
+        ["npm:7.12.0", {\
+          "packageLocation": "../dynamic-modules/yarn-cache/cache/undici-types-npm-7.12.0-af0c725921-8c0.zip/node_modules/undici-types/",\
           "packageDependencies": [\
-            ["undici-types", "npm:7.10.0"]\
+            ["undici-types", "npm:7.12.0"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -7204,12 +7227,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],\
           "linkType": "SOFT"\
         }],\
-        ["virtual:44917b377e025c777745b8d89b5d8773466ab4ed92576363952a2e80dbfc1b69c2f9ba845be34f48756cde502d2dbdb94ccdc3f052e7ba665ae5e10a7696e06e#npm:1.1.3", {\
-          "packageLocation": "./.yarn/__virtual__/update-browserslist-db-virtual-c92613fc39/2/dynamic-modules/yarn-cache/cache/update-browserslist-db-npm-1.1.3-569a9be54b-8c0.zip/node_modules/update-browserslist-db/",\
+        ["virtual:713d4a89d17b986cd049d55a31a81dbec1caf092e3b6ed463f353fd4a3246417e821b15d7340b32b15a56077d915deb33f1731028a98a2619d7175c986a372d0#npm:1.1.3", {\
+          "packageLocation": "./.yarn/__virtual__/update-browserslist-db-virtual-1799967bb6/2/dynamic-modules/yarn-cache/cache/update-browserslist-db-npm-1.1.3-569a9be54b-8c0.zip/node_modules/update-browserslist-db/",\
           "packageDependencies": [\
-            ["update-browserslist-db", "virtual:44917b377e025c777745b8d89b5d8773466ab4ed92576363952a2e80dbfc1b69c2f9ba845be34f48756cde502d2dbdb94ccdc3f052e7ba665ae5e10a7696e06e#npm:1.1.3"],\
+            ["update-browserslist-db", "virtual:713d4a89d17b986cd049d55a31a81dbec1caf092e3b6ed463f353fd4a3246417e821b15d7340b32b15a56077d915deb33f1731028a98a2619d7175c986a372d0#npm:1.1.3"],\
             ["@types/browserslist", null],\
-            ["browserslist", "npm:4.25.4"],\
+            ["browserslist", "npm:4.26.2"],\
             ["escalade", "npm:3.2.0"],\
             ["picocolors", "npm:1.1.1"]\
           ],\
@@ -7225,8 +7248,8 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",\
           "packageDependencies": [\
             ["user-code", "workspace:."],\
-            ["@wix/data", "npm:1.0.290"],\
-            ["psdev-task-manager", "npm:2.0.1"],\
+            ["@wix/data", "npm:1.0.293"],\
+            ["psdev-task-manager", "npm:2.0.4"],\
             ["sr-npm", "npm:1.7.505"]\
           ],\
           "linkType": "SOFT"\
